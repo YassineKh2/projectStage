@@ -1,0 +1,26 @@
+#multiselect, #multiselect_to{
+    height: 210px;
+}
+.html5buttons {
+    float: right;
+}
+
+.dataTables_filter label {
+    margin-right: 5px;
+}
+.html5buttons button {
+    border: 1px solid #e7eaec;
+    background: #fff;
+    color: #676a6c;
+    box-shadow: none;
+    padding: 6px 8px;
+    font-size: 12px;
+}
+
+.show{
+    display: block;
+}
+
+.dataTables_processing .sr-only{
+    position: relative;
+}
